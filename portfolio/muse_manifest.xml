@@ -1,0 +1,456 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://portfolio.ykmrtm.work" resolutions="1x,2x" timestamp="1520685163348">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="taketori.css" crc="3949100683" ref="index:web:design:photograph"/>
+    <file name="master_master1.css" crc="282319070" ref="photograph:design:index:web"/>
+    <file name="master_master2.css" crc="3781877060" ref="photograph:design:web"/>
+    <file name="photograph.css" crc="212442604" ref="photograph"/>
+    <file name="design.css" crc="3789079936" ref="design"/>
+    <file name="index.css" crc="322003260" ref="index"/>
+    <file name="web.css" crc="4195365539" ref="web"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:web:design:photograph"/>
+    <file name="museutils.js" crc="3803043152" ref="index:web:design:photograph"/>
+    <file name="whatinput.js" crc="86476730" ref="index:web:design:photograph"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:web:design:photograph"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:web:design:photograph"/>
+    <file name="taketori.js" crc="290790004" ref="index:web:design:photograph"/>
+    <file name="require.js" crc="4157109226" ref="index:web:design:photograph"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="web:design:photograph"/>
+    <file name="webpro.js" crc="242022427" ref="photograph"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="photograph"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="photograph"/>
+    <file name="touchswipe.js" crc="4066113679" ref="photograph"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="photograph"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4294492178" ref="index"/>
+    <file name="u152-4-a.png" crc="4000985885" ref="index"/>
+    <file name="u152-4-a_2x.png" crc="490509930" ref="index"/>
+    <file name="logo.png" crc="4196334823" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="441871595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portrait.jpg" crc="374618743" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="portrait_2x.jpg" crc="4069724544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:web:design:photograph"/>
+    <file name="u498_states.png" crc="439010702" ref="index"/>
+    <file name="u498_states_2x.png" crc="4019685795" ref="index"/>
+    <file name="u498_states-r.png" crc="3908466041" ref="index"/>
+    <file name="u498_states-r_2x.png" crc="4024215466" ref="index"/>
+    <file name="u510_states.png" crc="4196074263" ref="index"/>
+    <file name="u510_states_2x.png" crc="3809933218" ref="index"/>
+    <file name="u510_states-r.png" crc="486574019" ref="index"/>
+    <file name="u510_states-r_2x.png" crc="4081681135" ref="index"/>
+    <file name="u516_states.png" crc="348281515" ref="index"/>
+    <file name="u516_states_2x.png" crc="3958384172" ref="index"/>
+    <file name="u516_states-r.png" crc="399323733" ref="index"/>
+    <file name="u516_states-r_2x.png" crc="4203757745" ref="index"/>
+    <file name="web3-crop-u5665.jpg" crc="3798844364" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web1-crop-u5620.jpg" crc="4095388080" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web9-crop-u5568.jpg" crc="4288004167" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web10-crop-u841.jpg" crc="3871642637" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web2-crop-u861.jpg" crc="100517585" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web4-crop-u949.jpg" crc="4151720126" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web6-crop-u1019.jpg" crc="507013751" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web7-crop-u899.jpg" crc="437947511" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="web11-crop-u1006.jpg" crc="4069664464" seo="true" ref="web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="u751_states.png" crc="4271532002" ref="web:design:photograph"/>
+    <file name="u751_states_2x.png" crc="289898402" ref="web:design:photograph"/>
+    <file name="u751_states-r.png" crc="4128387552" ref="web:design:photograph"/>
+    <file name="u751_states-r_2x.png" crc="467122271" ref="web:design:photograph"/>
+    <file name="u754_states.png" crc="498371305" ref="web:design:photograph"/>
+    <file name="u754_states_2x.png" crc="4079464471" ref="web:design:photograph"/>
+    <file name="u754_states-r.png" crc="4273967106" ref="web:design:photograph"/>
+    <file name="u754_states-r_2x.png" crc="4151113605" ref="web:design:photograph"/>
+    <file name="u760_states.png" crc="3994118207" ref="web:design:photograph"/>
+    <file name="u760_states_2x.png" crc="4269070753" ref="web:design:photograph"/>
+    <file name="u760_states-r.png" crc="204607913" ref="web:design:photograph"/>
+    <file name="u760_states-r_2x.png" crc="4085029725" ref="web:design:photograph"/>
+    <file name="u763_states.png" crc="176454093" ref="web:design:photograph"/>
+    <file name="u763_states_2x.png" crc="4161640157" ref="web:design:photograph"/>
+    <file name="u763_states-r.png" crc="265864519" ref="web:design:photograph"/>
+    <file name="u763_states-r_2x.png" crc="481397636" ref="web:design:photograph"/>
+    <file name="logo1.png" crc="4121154373" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo1_2x.png" crc="374920879" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo2.png" crc="4031716330" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo2_2x.png" crc="133362132" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo3.png" crc="46137274" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo4.jpg" crc="4267576916" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo4_2x.jpg" crc="4056502393" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo5.jpg" crc="307773421" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo5_2x.jpg" crc="4148127757" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="logo6.jpg" crc="442321367" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="line1.jpg" crc="4253428304" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="line2.jpg" crc="228054437" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer1.jpg" crc="3953992300" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer1_2x.jpg" crc="491699659" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer2.jpg" crc="4104686941" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer3.jpg" crc="225841667" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer3_2x.jpg" crc="3849276607" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer4.jpg" crc="150129384" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer4_2x.jpg" crc="79738417" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer5.jpg" crc="4250950366" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer5_2x.jpg" crc="4200149215" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer6.jpg" crc="351009329" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer6_2x.jpg" crc="4240692473" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer7.png" crc="3815353978" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer8.png" crc="81658995" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer9.jpg" crc="342749587" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer9_2x.jpg" crc="3796193225" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer10.jpg" crc="215687506" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer10_2x.jpg" crc="139895379" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer11.jpg" crc="248955703" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="flyer11_2x.jpg" crc="4141747043" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster3.jpg" crc="3844634808" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster3_2x.jpg" crc="271451175" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster1.jpg" crc="322953516" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster1_2x.jpg" crc="4084454976" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster2.jpg" crc="4104217633" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="poster2_2x.jpg" crc="121204834" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner1.jpg" crc="205136545" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner1_2x.jpg" crc="4232457043" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner2.png" crc="4229681915" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner3.png" crc="3881621843" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner3_2x.png" crc="305487582" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="banner4.png" crc="149100012" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure1.jpg" crc="82018804" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure1_2x.jpg" crc="3808216915" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure2.jpg" crc="4135220041" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure2_2x.jpg" crc="389947714" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure3.jpg" crc="3933553756" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="figure3_2x.jpg" crc="303524920" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="orite2.jpg" crc="4201579291" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="orite1.jpg" crc="3873448477" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="meishi1-crop-u4974.jpg" crc="3964975915" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="meishi1-crop-u4974_2x.jpg" crc="3780433344" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="meishi2.jpg" crc="3998225477" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="meishi3.jpg" crc="194113943" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="meishi3_2x.jpg" crc="129939262" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="sessan1.jpg" crc="4000337051" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="kob1631.jpg" crc="312948924" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="6900251304722645437-account_id=4.gif" crc="4050712176" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="1.jpg" crc="351281003" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="1_2x.jpg" crc="3985399541" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4000289740" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="2_2x.jpg" crc="3984859572" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="3.jpg" crc="522149654" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="3_2x.jpg" crc="3890291220" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="4.jpg" crc="82562567" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="4_2x.jpg" crc="216959386" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="5.jpg" crc="185628588" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="5_2x.jpg" crc="332900368" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3799250023" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="6_2x.jpg" crc="38224464" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4238442355" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="7_2x.jpg" crc="47188649" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="8.jpg" crc="311594618" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="8_2x.jpg" crc="3903044735" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="9.jpg" crc="4236827400" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="9_2x.jpg" crc="4214459215" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="10.jpg" crc="406559069" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="10_2x.jpg" crc="220092887" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="11.jpg" crc="4155293602" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="11_2x.jpg" crc="3896336249" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="12.jpg" crc="281670949" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="12_2x.jpg" crc="4065219522" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="13.jpg" crc="96196382" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="13_2x.jpg" crc="269977158" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="14.jpg" crc="4125380218" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="14_2x.jpg" crc="386763092" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="1133x88.jpg" crc="300840069" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="1133x88_2x.jpg" crc="3987163013" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="2133x88.jpg" crc="254193092" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="2133x88_2x.jpg" crc="4213327091" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="3133x88.jpg" crc="425395239" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="3133x88_2x.jpg" crc="348005593" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="4133x88.jpg" crc="4154032567" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="4133x88_2x.jpg" crc="3926566755" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="5133x88.jpg" crc="3886593338" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="5133x88_2x.jpg" crc="4012042345" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="6133x88.jpg" crc="4112006554" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="6133x88_2x.jpg" crc="4269423651" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="7133x88.jpg" crc="419972185" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="7133x88_2x.jpg" crc="523856921" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="8133x88.jpg" crc="288753909" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="8133x88_2x.jpg" crc="493056401" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="9133x88.jpg" crc="4046069509" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="9133x88_2x.jpg" crc="4053276162" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="10133x88.jpg" crc="438988988" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="10133x88_2x.jpg" crc="3933772805" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="11133x88.jpg" crc="3970920610" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="11133x88_2x.jpg" crc="323346193" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="12133x88.jpg" crc="4110352565" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="12133x88_2x.jpg" crc="3996778383" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="13133x88.jpg" crc="407518680" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="13133x88_2x.jpg" crc="4049986577" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="14138x88.jpg" crc="326723840" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="14138x88_2x.jpg" crc="147832511" seo="true" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="photograph"/>
+    <file name="500pxlogo.jpg" crc="137117702" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+    <file name="500pxlogo_2x.jpg" crc="3991690367" ref="photograph">
+      <caption webpage="photograph" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4228532225" seo="true" mt="1520684903510" redirect="true"/>
+  <file name="web.html" crc="228846" seo="true" mt="1520684827391" redirect="true"/>
+  <file name="design.html" crc="4126818389" seo="true" mt="1520684900883" redirect="true"/>
+  <file name="photograph.html" crc="188516178" seo="true" mt="1520684999443" redirect="true"/>
+</manifest>

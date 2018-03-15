@@ -1,0 +1,98 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="yukamo.xyz/portfolio" resolutions="1x" timestamp="1470295651076">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="design.css" crc="3836072313" ref="design"/>
+    <file name="web.css" crc="536759700" ref="web"/>
+    <file name="photograph.css" crc="4114960714" ref="photograph"/>
+    <file name="index.css" crc="3856661518" ref="index"/>
+    <file name="master_master.css" crc="4267812149" ref="photograph:web:index:design"/>
+    <file name="master_master2.css" crc="3795426239" ref="photograph:web:design"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:web:photograph:design"/>
+    <file name="museutils.js" crc="3851988764" ref="index:web:photograph:design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:web:photograph:design"/>
+    <file name="museconfig.js" crc="169177150" ref="index:web:photograph:design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:web:photograph:design"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:web:photograph:design"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:web:photograph:design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:web:photograph:design"/>
+    <file name="require.js" crc="4108833657" ref="index:web:photograph:design"/>
+    <file name="webpro.js" crc="4067903014" ref="photograph"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="photograph"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="photograph"/>
+    <file name="touchswipe.js" crc="474750357" ref="photograph"/>
+  </folder>
+  <folder name="images">
+    <file name="_kob7801jpg_28184326066_o.jpg" crc="3792970428" ref="photograph" seo="true"/>
+    <file name="blank.gif" crc="4208392903" ref="index:web:photograph"/>
+    <file name="y_w.png" crc="3981971470" seo="true" ref="index"/>
+    <file name="dsc00156-edit1.jpg" crc="12058896" ref="index"/>
+    <file name="pc.jpg" crc="33440035" ref="web"/>
+    <file name="shot-20160726-26328-7fcfrp.jpg" crc="4730781" ref="web"/>
+    <file name="shot-20160726-26328-1ax4skw.jpg" crc="499259518" ref="web"/>
+    <file name="shot-20160726-26328-teo9qw.jpg" crc="4206245525" ref="web"/>
+    <file name="shot-20160726-26328-1gs30zs (1).jpg" crc="176039768" ref="web"/>
+    <file name="shot-20160726-26328-1l6rc6g (1).jpg" crc="4114483185" ref="web"/>
+    <file name="shot-20160726-26328-4djsdy.jpg" crc="3868423211" ref="web"/>
+    <file name="shot-20160726-26328-16t9lbw.jpg" crc="3870934705" ref="web"/>
+    <file name="shot-20160726-26328-19aoee5.jpg" crc="4008171337" ref="web"/>
+    <file name="shot-20160726-26328-1nuxaj1.jpg" crc="3983103570" ref="web"/>
+    <file name="nc_sample2-u2692-fr.jpg" crc="395975720" ref="web"/>
+    <file name="camera.jpg" crc="4160429829" ref="photograph"/>
+    <file name="_kob8041-editjpg_28398836012_o.jpg" crc="4028722644" seo="true" ref="photograph"/>
+    <file name="_kob7865jpg_28258259152_o.jpg" crc="4075203198" seo="true" ref="photograph"/>
+    <file name="_kob7255jpg_27742800031_o.jpg" crc="4067588272" seo="true" ref="photograph"/>
+    <file name="_kob7103jpg_26972299844_o.jpg" crc="347819626" seo="true" ref="photograph"/>
+    <file name="_kob6437-editjpg_27524421665_o.jpg" crc="4161769" seo="true" ref="photograph"/>
+    <file name="_kob6330-editjpg_27059660706_o.jpg" crc="3927547803" seo="true" ref="photograph"/>
+    <file name="_kob5948jpg_27514626754_o.jpg" crc="3882522897" seo="true" ref="photograph"/>
+    <file name="_kob5259jpg_25880287694_o.jpg" crc="3813432285" seo="true" ref="photograph"/>
+    <file name="_kob5247jpg_26485159325_o.jpg" crc="3854838437" seo="true" ref="photograph"/>
+    <file name="_kob7801jpg_28184326066_o68x45.jpg" crc="487601168" seo="true" ref="photograph"/>
+    <file name="_kob8041-editjpg_28398836012_o68x45.jpg" crc="166194541" seo="true" ref="photograph"/>
+    <file name="_kob7865jpg_28258259152_o68x45.jpg" crc="3793164839" seo="true" ref="photograph"/>
+    <file name="_kob7255jpg_27742800031_o68x45.jpg" crc="3886006012" seo="true" ref="photograph"/>
+    <file name="_kob7103jpg_26972299844_o68x45.jpg" crc="245035057" seo="true" ref="photograph"/>
+    <file name="_kob6437-editjpg_27524421665_o68x45.jpg" crc="3855394500" seo="true" ref="photograph"/>
+    <file name="_kob6330-editjpg_27059660706_o68x45.jpg" crc="3847416147" seo="true" ref="photograph"/>
+    <file name="_kob5948jpg_27514626754_o68x45.jpg" crc="236354282" seo="true" ref="photograph"/>
+    <file name="_kob5259jpg_25880287694_o68x45.jpg" crc="47634125" seo="true" ref="photograph"/>
+    <file name="_kob5247jpg_26485159325_o68x45.jpg" crc="4072699080" seo="true" ref="photograph"/>
+    <file name="loading.gif" crc="3815509949" ref="photograph"/>
+    <file name="shot-20160726-26328-lnfckm.jpg" crc="107362258" ref="photograph"/>
+    <file name="e5908de7a7b0e69caae8a8ade5ae9a-2.jpg" crc="4112311770" ref="design"/>
+    <file name="90xjyjq--u2747-fr.jpg" crc="442321367" ref="design"/>
+    <file name="12801327_971430526274509_4925939905658812967_n-u2775-fr.jpg" crc="3821910903" ref="design"/>
+    <file name="12803227_500099356865557_6601593430229976046_n-u2761-fr.jpg" crc="56410236" ref="design"/>
+    <file name="cloudlinklogo-u2789-fr.jpg" crc="141370785" ref="design"/>
+    <file name="_kob6589.jpg" crc="423813439" ref="design"/>
+    <file name="panel-2.jpg" crc="4242104066" ref="design"/>
+    <file name="panel-1.jpg" crc="3856168829" ref="design"/>
+    <file name="stamp1.jpg" crc="4253428304" ref="design"/>
+    <file name="stamp.jpg" crc="228054437" ref="design"/>
+    <file name="diagram2.jpg" crc="4122244900" ref="design"/>
+    <file name="diagram.jpg" crc="4118215325" ref="design"/>
+    <file name="2v_c_28_morotomi_yuka.jpg" crc="4207953702" ref="design"/>
+    <file name="img_20130424_0745142-1.jpg" crc="4198686068" ref="design"/>
+    <file name="e5908de588ba.jpg" crc="3807885640" ref="design"/>
+    <file name="e5908de588ba_2v_c_morotomi.jpg" crc="3927871844" ref="design"/>
+    <file name="kob1619.jpg" crc="86874711" ref="design"/>
+    <file name="kob1620.jpg" crc="3890469128" ref="design"/>
+    <file name="kob1633.jpg" crc="490045650" ref="design"/>
+    <file name="kob1631.jpg" crc="312948924" ref="design"/>
+    <file name="chi1.jpg" crc="4184224988" ref="design"/>
+    <file name="chi2.jpg" crc="3831009682" ref="design"/>
+    <file name="master-favicon.ico" crc="399095208" ref="index"/>
+    <file name="banner2.jpg" crc="18653090" ref="design"/>
+    <file name="connpassimg.jpg" crc="3989920718" ref="design"/>
+    <file name="28700372045_1657402fec_o.jpg" crc="3863932362" ref="index"/>
+    <file name="28700372045_1657402fec_o805x533.jpg" crc="113168781" seo="true" ref="photograph"/>
+    <file name="28700372045_1657402fec_o68x45.jpg" crc="4106329986" seo="true" ref="photograph"/>
+    <file name="flyer_cmyk.jpg" crc="35746140" ref="design"/>
+  </folder>
+  <file name="index.html" crc="267358517" seo="true" mt="1470295276247" redirect="true"/>
+  <file name="web.html" crc="4214536866" seo="true" mt="1470295605469" redirect="true"/>
+  <file name="photograph.html" crc="360264959" seo="true" mt="1470295605469" redirect="true"/>
+  <file name="design.html" crc="4226816582" seo="true" mt="1470295605469" redirect="true"/>
+</manifest>

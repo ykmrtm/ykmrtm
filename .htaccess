@@ -1,0 +1,15 @@
+# mod_rewriteを有効にする
+RewriteEngine On
+
+# wwwを省略
+RewriteCond %{HTTP_HOST} ^www\.ykmrtm\.work
+RewriteRule ^(.*)$ https://ykmrtm.work/$1 [R=301,L]
+
+# index.htmlなし
+RewriteCond %{THE_REQUEST} ^.*/index.html
+RewriteRule ^(.*)index.html$ https://ykmrtm.work/$1 [R=301,L]
+
+# SSLリダイレクト
+RewriteCond %{HTTPS} off
+# RewriteRule ^(.*)$ https://ykmrtm.work/$1 [R=301,L]
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
